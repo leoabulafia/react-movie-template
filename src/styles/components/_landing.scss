@@ -1,0 +1,6 @@
+.landing {
+  height: calc(68vh - 80px);
+  @media (max-width: 700px) {
+    height: 40vh;
+  }
+}

@@ -1,0 +1,15 @@
+@import "base/variables";
+@import "base/image-gallery.scss";
+
+//Foundation
+// @import "base/foundation-settings";
+// @import "foundation";
+// @include foundation-everything(true);
+
+// Components
+@import "components/background-gallery";
+@import "components/gallery";
+@import "components/landing";
+@import "components/trailer";
+@import "components/body";
+@import "components/bg";

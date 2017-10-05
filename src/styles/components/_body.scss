@@ -1,0 +1,29 @@
+p {
+  font-family: $open-sans;
+  line-height: 1.6;
+  font-size: 120%;
+}
+
+h1 {
+  font-family: $open-sans;
+}
+
+h2 {
+  font-family: $oswald;
+}
+
+a {
+  font-family: $oswald;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.lang {
+  font-family: $oswald;
+  color: #fff;
+  &:hover {
+    text-decoration: underline;
+    color: #fff;
+  }
+}

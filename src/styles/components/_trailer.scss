@@ -1,0 +1,14 @@
+.trailer21by9 {
+  display: block;
+  @media (max-width: 768px) {
+      display: none;
+  }
+}
+
+
+.trailer16by9 {
+  display: block;
+  @media (min-width: 769px) {
+    display: none;
+  }
+}

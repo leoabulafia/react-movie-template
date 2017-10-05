@@ -1,0 +1,10 @@
+.bg {
+  background: no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+  margin-top: -80px;
+  @media (max-width: 700px) {
+    background: no-repeat center center scroll;
+    background-size: cover;
+  }
+}

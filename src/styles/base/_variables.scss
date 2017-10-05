@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i|Oswald:300,400&subset=greek-ext);
+
+//Colors
+$darkblue: #051e3a;
+$white: #fff;
+$dark: #010101;
+$lightgrey: #fafafa;
+$lightdarkgrey: #eee;
+$lightblue: #b5d0e2;
+$light-color: #aaa;
+
+//Site colors
+$color-title: $darkblue;
+$background-color: $lightgrey;
+$clock-text-color: $white;
+$clock-bg-color: $lightblue;
+$clock-border-color: $darkblue;
+
+//Fonts
+$oswald: 'Oswald', sans-serif;
+$open-sans: 'Open Sans', sans-serif;
+
+//Spaces
+$space-short: 1rem;
+$space-large: 2rem;
+
+//Checkbox
+/* $activeColor: #c0392b; //red */
+$activeColor: #27ae60; //green
+$darkenColor: darken($activeColor, 20%);
+/* $background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/13460/dark_wall.png'); */
+$background: #3498db;

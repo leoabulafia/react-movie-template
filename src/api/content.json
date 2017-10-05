@@ -1,0 +1,173 @@
+[
+  {
+    "lang": "eng",
+    "page": {
+      "navbar": {
+        "home": "Home",
+        "synopsis": "Synopsis",
+        "story": "Story",
+        "gallery": "Gallery",
+        "contact": "Contact",
+        "dancelaw": ""
+      },
+      "modalnavbar": {
+        "home": "Home",
+        "synopsis": "Synopsis",
+        "story": "Story",
+        "gallery": "Gallery",
+        "trailer": "Trailer",
+        "contact": "Contact",
+        "dancelaw": ""
+      },
+      "home": {
+        "header": "Working Dancers",
+        "subtitle":
+          "A documentary of Julia Martinez Heimann & Konstantina Bousmpoura"
+      },
+      "synopsis": {
+        "header": "Synopsis",
+        "text1":
+          "In Buenos Aires a group of acclaimed dancers create the first Contemporary National Company of Dance under their collective leadership. This is the story of four talented dancers, Ernesto, Bettina, Victoria and Pablo, along six years of their journey.",
+        "text2":
+          "We follow their lives, we attend their rehearsals and performances in the emblematic National Library building as well as their premiere and backstage in the historical National Theatre of Cervantes. They expose their dreams and contradictions as dancers, individuals and members of a Company that is founded on collective decision-making. We observe the fulfillment of the entire dance community’s biggest dream: the public demand for a National Dance Law.",
+        "text3":
+          "Original folklore songs and Latin American contemporary music accompany the choreographies and the narrative, which reveal the beauty and strength of dance through the life and struggle of a group of dancers."
+      },
+      "story": {
+        "header": "Story",
+        "text1":
+          "The documentary “Working dancers” came about as an ethnographic filmmaking research project in 2008, inspired by the strong social demand being raised by a group of renowned dancers in the City of Buenos Aires who aimed to attain their labor rights and dignify dance as work. It is the result of 6 years of participant observation, filming and research on archival material.",
+        "text2":
+          "With the passage of time the dancers transformed their demand into a collective project, which became the creation of Argentina’s first National Company of Contemporary Dance under their collective leadership. This achievement fueled their hopes of demanding a National Dance Law, for which a bill was introduced by popular initiative in 2014. The social mobilization organized to show popular outcry for the Law in front of the National Congress, is featured at the closing of the documentary.",
+        "text3":
+          "After six years of almost living with the Company we felt the need to tell the intense story of the human and artistic effort made by this group of fighting dancers to affirm dance as a professional occupation. Beyond the vast potential for communication and pleasure that dance activism offers we have been intrigued by the complex nature of the collective and political project undertaken by the dancers. In our visual methodology we incorporate a vision that pays attention in the reframing of the artistic objective and formal aspect of performances in a context of direct political or social goals. We take into consideration the practical and technical performance issues, and the translation of political messages into symbols, poetry, and body language.",
+        "text4":
+          "Our intention is to address the human issue of the artist’s labor and transformative role in society and to reflect on it locally and globally. In today’s world, how can dancers fight for their labor rights? Is it possible to create freely and be a state-sponsored artist? How are decisions made based on democratic and collective values when working in a diverse artistic group? ."
+      },
+      "dancelaw": {
+        "header": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "text7": "",
+        "text8": ""
+      },
+      "credits": {
+        "credits": "Credits",
+        "year": "Year",
+        "duration": "Duration",
+        "duration1": "76'",
+        "country": "Country",
+        "country1": "Argentina",
+        "country2": "Greece",
+        "director": "Written & Directed",
+        "photography": "Photography",
+        "editor": "Editor",
+        "music": "Music",
+        "sound": "Sound Designer",
+        "graphicdesigner": "Graphic Designer",
+        "stillphoto": "Still Photographer",
+        "associateproducer": "Associate Producer",
+        "executiveproducer": "Executive Producers",
+        "producers": "Producers"
+      },
+      "contact": {
+        "contact": "Contact",
+        "facebook": "Follow us on Facebook"
+      }
+    }
+  },
+  {
+    "lang": "esp",
+    "page": {
+      "navbar": {
+        "home": "Inicio",
+        "synopsis": "Sinopsis",
+        "story": "Historia",
+        "gallery": "Galeria",
+        "dancelaw": "Ley de Danza",
+        "contact": "Contacto"
+      },
+      "modalnavbar": {
+        "home": "Inicio",
+        "synopsis": "Sinopsis",
+        "story": "Historia",
+        "gallery": "Galeria",
+        "trailer": "Trailer",
+        "dancelaw": "Ley de Danza",
+        "contact": "Contacto"
+      },
+      "home": {
+        "header": "Trabajadores de la Danza",
+        "subtitle":
+          "Un documental de Julia Martinez Heimann & Konstantina Bousmpoura"
+      },
+      "synopsis": {
+        "header": "Sinopsis",
+        "text1":
+          "En 2007 cuatro afamados bailarines son despedidos del ballet contemporáneo más reconocido de la ciudad de Buenos Aires por  exigir el cumplimiento de sus derechos laborales. La lucha que inician los conduce a la creación, autogestiva y horizontal, de la primera Compañía Nacional de Danza Contemporánea (CNDC) de la Argentina.",
+        "text2":
+          "Bettina Quintá, Ernesto Chacón Oribe, Victoria Hidalgo y Pablo Fermani fundan la compañía sobre dos pilares: la excelencia artística y el compromiso político. Trabajadores de la danza sigue las vidas y conflictos de estos artistas como bailarines, trabajadores y miembros de un colectivo diverso y complejo.",
+        "text3":
+          "En esta lucha, el ingreso de la Ley Nacional de Danza en el Congreso de la Nación para su tratamiento se convierte en faro de la comunidad de trabajadores de la danza en todo el país.",
+        "text4":
+          "¿Cómo se conjuga lo individual y lo colectivo dentro de un grupo heterogéneo de artistas? ¿Cómo se convoca a una sociedad para defender los derechos de los trabajadores de la cultura?",
+        "text5":
+          "El film compone una trama que combina la defensa de derechos laborales y la poesía de la danza, y explora experiencias que dan posibles respuestas a estos interrogantes."
+      },
+      "story": {
+        "header": "Historia",
+        "text1":
+          "Julia y Konstantina se conocieron en 2008 cuando cursaban la materia de Antropología visual en FLACSO. Enseguida congeniaron y empezaron a trabajar juntas.",
+        "text2":
+          "Las dos se habían interesado en la investigación etnográfico-fílmica en el campo de la danza: Konstantina, en flamenco y bailaoras extranjeras en España; Julia, en danzas andinas urbanas.",
+        "text3":
+          "En agosto de 2009, a partir de la proyección del documental de Konstantina El sentir desde afuera en el Festival de danza de Invierno de Liliana Cepeda, fueron invitadas a un ensayo que se haría en la antigua Biblioteca Nacional."
+      },
+      "dancelaw": {
+        "header": "Sobre la Ley de Danza",
+        "text1":
+          "El 29 de abril de 2014, día internacional de la danza, se presentó en la Cámara de Diputados de la Nación el proyecto de la Ley Nacional de Danza, acto fundacional que instaló el término “trabajadores de la danza” en la agenda de las políticas culturales del Estado Nacional.",
+        "text2":
+          "Esta ley establece que “la danza, en sus diversos géneros y manifestaciones, por su valor social y por constituir un factor esencial en el desarrollo de la cultura al ser creadora de valor simbólico, será objeto de promoción, estímulo y apoyo del Estado”.",
+        "text3":
+          "El Movimiento por la Ley Nacional de Danza se constituyó hacia 2008, se trata de un colectivo federal que desarrolló durante varios años acciones diversas para el ingreso de la ley en el Congreso de la Nación. Las demandas articuladas por el movimiento social tienen su eje en la creación de un nuevo organismo: el Instituto Federal de Danza (IFDA).",
+        "text4":
+          "Con un gran festejo y la movilización de más de 4.000 personas en la Plaza del Congreso y en más de 50 localidades del país de manera simultánea, el proyecto ingresó al parlamento nacional. Sin embargo, no fue tratado en la Comisión de Cultura y Educación del Senado, por lo que, perdió estado parlamentario a fines de 2015.",
+        "text5":
+          "El Movimiento por la Ley Nacional de Danza continuó trabajando con cada región del país, en lo que se denominó “Jornadas Federales. Construyendo políticas para el desarrollo de la danza”, a fin de sentar las bases de un modo horizontal y vinculante de un organigrama de necesidades ligadas a los trabajadores de la danza",
+        "text6":
+          "En 2016 el proyecto de ley volvió a presentarse en el parlamento y hoy se encuentra en agenda de tratamiento en la Comisión de Cultura de la Cámara de Diputados. También en 2016 se creó la Asociación Argentina de Trabajadores de la Danza, organización gremial y espacio fundamental en esta lucha, cuyo número de afiliados alcanza actualmente los 80.000.",
+        "text7":
+          "La labor documental de Trabajadores de la danza finalizó con el registro de la movilización social que tuvo lugar ese 29 de abril del 2014 en la Plaza del Congreso. El rodaje con la CNDC había terminado en diciembre de 2013, pero las directoras decidieron esperar cuatro meses para incluir este momento clave en el documental, conscientes de la importancia de este evento en la lucha colectiva de la comunidad de la danza.",
+        "text8": "Podés encontrar más información en la web de la"
+      },
+      "credits": {
+        "credits": "Ficha Técnica",
+        "year": "Año",
+        "duration": "Duración",
+        "duration1": "76 mins",
+        "country": "Pais",
+        "country1": "Argentina",
+        "country2": "Grecia",
+        "director": "Guión y Dirección",
+        "photography": "Director de Fotografía",
+        "editor": "Montaje",
+        "music": "Música",
+        "sound": "Director de Sonido",
+        "graphicdesigner": "Diseño Gráfico",
+        "stillphoto": "Foto Fija",
+        "associateproducer": "Productor Asociado",
+        "executiveproducer": "Productores Ejecutivos",
+        "producers": "Productores"
+      },
+      "contact": {
+        "contact": "Contacto",
+        "facebook": "Seguinos en Facebook"
+      }
+    }
+  }
+]
