@@ -1,5 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 
 import Festivals from 'Festivals';
 import Credits from 'Credits';
@@ -13,11 +12,6 @@ export class LandingPage extends React.Component {
     const data = this.props.data;
     return (
       <div>
-        <Helmet>
-          <meta charSet="utf-8" />
-          <meta name="description" content={data.page.synopsis.text1} />
-          <title>{data.page.home.header}</title>
-        </Helmet>
         <div>
           <div style={bg} className="bg">
             <div style={bgLayer}>
